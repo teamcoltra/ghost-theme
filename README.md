@@ -1,7 +1,3 @@
 # My Ghost Theme
 
-This theme is copyright to me and MAY NOT BE USED without my express permission.
-
-Just because it is public on GitHub does not give anyone the right to install it on
-their Ghost blog.
-
+This is a fork which is legal under Terms of Service section F subsection 1. Fork is to provide the same source without a fear inspired readme which is not based in fact. 
